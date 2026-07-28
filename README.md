@@ -1,2 +1,2 @@
-<br>
-this file contian the hands on the practice on the verilog project.
+##this is verilog repostiry which contains different projects related to the verilog 
+
